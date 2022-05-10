@@ -1,5 +1,5 @@
 """
-Jesus Zeno SIE508 Assignment 3
+Jesus Zeno
 This main program uses the class Real Estate agent along with Property and its children classes House
 and Apartment. Together they make a list of real estate agents and display all the agents as well as the
 different aspects about each property. In addition, the program tells us which agent is in charge of
