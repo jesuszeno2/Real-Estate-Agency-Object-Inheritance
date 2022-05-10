@@ -1,5 +1,5 @@
 """
-Jesus Zeno SIE508 Assignment 3
+Jesus Zeno
 This class holds a list of real estate agents and can print that list. We can also use the methods to
 assign certain properties to a specific agent. These properties can then be viewed in relation to the agent.
 """
